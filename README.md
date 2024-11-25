@@ -2,7 +2,7 @@
 
 1. Zipped code uploaded to Canvas
 2. [URL of Order Form](https://johnp392.sg-host.com/HW12/order_form.php)
-3. ![Database Screenshot](/HW12/db_screenshot.png)
+3. ![Database Screenshot](db_screenshot.png)
 
 ## Questions
 
